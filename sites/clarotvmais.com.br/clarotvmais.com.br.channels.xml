@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="clarotvmais.com.br" site_id="86" lang="pt" xmltv_id="A&amp;E">A&amp;E</channel>
+  <channel site="clarotvmais.com.br" site_id="322" lang="pt" xmltv_id="ADULT SWIN">ADULT SWIN</channel>
+  <channel site="clarotvmais.com.br" site_id="80" lang="pt" xmltv_id="AGRO MAIS">AGRO MAIS</channel>
+  <channel site="clarotvmais.com.br" site_id="33" lang="pt" xmltv_id="AMC">AMC</channel>
+  <channel site="clarotvmais.com.br" site_id="15" lang="pt" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+  <channel site="clarotvmais.com.br" site_id="34" lang="pt" xmltv_id="ARTE 1">ARTE 1</channel>
+  <channel site="clarotvmais.com.br" site_id="79" lang="pt" xmltv_id="AXN">AXN</channel>
+  <channel site="clarotvmais.com.br" site_id="174" lang="pt" xmltv_id="BAND">BAND</channel>
+  <channel site="clarotvmais.com.br" site_id="6" lang="pt" xmltv_id="BAND NEWS">BAND NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="5" lang="pt" xmltv_id="BAND SPORTS">BAND SPORTS</channel>
+  <channel site="clarotvmais.com.br" site_id="67" lang="pt" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="101" lang="pt" xmltv_id="BIS">BIS</channel>
+  <channel site="clarotvmais.com.br" site_id="35" lang="pt" xmltv_id="BLOOMBERG TV">BLOOMBERG TV</channel>
+  <channel site="clarotvmais.com.br" site_id="321" lang="pt" xmltv_id="BM&amp;C NEWS">BM&amp;C NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="337" lang="pt" xmltv_id="BOA VONTADE">BOA VONTADE</channel>
+  <channel site="clarotvmais.com.br" site_id="314" lang="pt" xmltv_id="C3-TV">C3-TV</channel>
+  <channel site="clarotvmais.com.br" site_id="104" lang="pt" xmltv_id="CANAL BRASIL">CANAL BRASIL</channel>
+  <channel site="clarotvmais.com.br" site_id="328" lang="pt" xmltv_id="CANAL DO BOI">CANAL DO BOI</channel>
+  <channel site="clarotvmais.com.br" site_id="473" lang="pt" xmltv_id="CANAL EDUCAÇÃO">CANAL EDUCAÇÃO</channel>
+  <channel site="clarotvmais.com.br" site_id="471" lang="pt" xmltv_id="CANAL GOV">CANAL GOV</channel>
+  <channel site="clarotvmais.com.br" site_id="338" lang="pt" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
+  <channel site="clarotvmais.com.br" site_id="352" lang="pt" xmltv_id="CANAL UOL">CANAL UOL</channel>
+  <channel site="clarotvmais.com.br" site_id="300" lang="pt" xmltv_id="CANÇÃO NOVA">CANÇÃO NOVA</channel>
+  <channel site="clarotvmais.com.br" site_id="2" lang="pt" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+  <channel site="clarotvmais.com.br" site_id="11" lang="pt" xmltv_id="CARTOONITO">CARTOONITO</channel>
+  <channel site="clarotvmais.com.br" site_id="316" lang="pt" xmltv_id="CGTN">CGTN</channel>
+  <channel site="clarotvmais.com.br" site_id="178" lang="pt" xmltv_id="CINEMAX">CINEMAX</channel>
+  <channel site="clarotvmais.com.br" site_id="77" lang="pt" xmltv_id="CNN BRASIL">CNN BRASIL</channel>
+  <channel site="clarotvmais.com.br" site_id="349" lang="pt" xmltv_id="CNN BRASIL MONEY">CNN BRASIL MONEY</channel>
+  <channel site="clarotvmais.com.br" site_id="177" lang="pt" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
+  <channel site="clarotvmais.com.br" site_id="114" lang="pt" xmltv_id="COMBATE">COMBATE</channel>
+  <channel site="clarotvmais.com.br" site_id="175" lang="pt" xmltv_id="CULTURA">CULTURA</channel>
+  <channel site="clarotvmais.com.br" site_id="19" lang="pt" xmltv_id="CURTA!">CURTA</channel>
+  <channel site="clarotvmais.com.br" site_id="7" lang="pt" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+  <channel site="clarotvmais.com.br" site_id="8" lang="pt" xmltv_id="DISCOVERY HOME&amp;HEALTH">DISCOVERY HOME&amp;HEALTH</channel>
+  <channel site="clarotvmais.com.br" site_id="13" lang="pt" xmltv_id="DISCOVERY ID">DISCOVERY ID</channel>
+  <channel site="clarotvmais.com.br" site_id="1" lang="pt" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+  <channel site="clarotvmais.com.br" site_id="116" lang="pt" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+  <channel site="clarotvmais.com.br" site_id="117" lang="pt" xmltv_id="DISCOVERY THEATER">DISCOVERY THEATER</channel>
+  <channel site="clarotvmais.com.br" site_id="18" lang="pt" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+  <channel site="clarotvmais.com.br" site_id="118" lang="pt" xmltv_id="DISCOVERY WORLD">DISCOVERY WORLD</channel>
+  <channel site="clarotvmais.com.br" site_id="268" lang="pt" xmltv_id="DOG TV">DOG TV</channel>
+  <channel site="clarotvmais.com.br" site_id="66" lang="pt" xmltv_id="DW-TV">DW-TV</channel>
+  <channel site="clarotvmais.com.br" site_id="87" lang="pt" xmltv_id="E!">E!</channel>
+  <channel site="clarotvmais.com.br" site_id="29" lang="pt" xmltv_id="ESPN">ESPN</channel>
+  <channel site="clarotvmais.com.br" site_id="28" lang="pt" xmltv_id="ESPN 2">ESPN 2</channel>
+  <channel site="clarotvmais.com.br" site_id="39" lang="pt" xmltv_id="ESPN 3">ESPN 3</channel>
+  <channel site="clarotvmais.com.br" site_id="26" lang="pt" xmltv_id="ESPN 4">ESPN 4</channel>
+  <channel site="clarotvmais.com.br" site_id="27" lang="pt" xmltv_id="ESPN 5">ESPN 5</channel>
+  <channel site="clarotvmais.com.br" site_id="50" lang="pt" xmltv_id="ESPN 6">ESPN 6</channel>
+  <channel site="clarotvmais.com.br" site_id="119" lang="pt" xmltv_id="EUROCHANNEL">EUROCHANNEL</channel>
+  <channel site="clarotvmais.com.br" site_id="76" lang="pt" xmltv_id="FASHION TV">FASHION TV</channel>
+  <channel site="clarotvmais.com.br" site_id="51" lang="pt" xmltv_id="FILM &amp; ARTS">FILM &amp; ARTS</channel>
+  <channel site="clarotvmais.com.br" site_id="40" lang="pt" xmltv_id="FISH TV">FISH TV</channel>
+  <channel site="clarotvmais.com.br" site_id="52" lang="pt" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+  <channel site="clarotvmais.com.br" site_id="479" lang="pt" xmltv_id="FONTE TV">FONTE TV</channel>
+  <channel site="clarotvmais.com.br" site_id="129" lang="pt" xmltv_id="FRANCE 24">FRANCE 24</channel>
+  <channel site="clarotvmais.com.br" site_id="475" lang="pt" xmltv_id="FUEL TV">FUEL TV</channel>
+  <channel site="clarotvmais.com.br" site_id="95" lang="pt" xmltv_id="FUTURA">FUTURA</channel>
+  <channel site="clarotvmais.com.br" site_id="466" lang="pt" xmltv_id="GE TV">GE TV</channel>
+  <channel site="clarotvmais.com.br" site_id="78" lang="pt" xmltv_id="GLOBO NEWS">GLOBO NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="124" lang="pt" xmltv_id="GLOBO">GLOBO</channel>
+  <channel site="clarotvmais.com.br" site_id="99" lang="pt" xmltv_id="GLOBOPLAY NOVELAS">GLOBOPLAY NOVELAS</channel>
+  <channel site="clarotvmais.com.br" site_id="93" lang="pt" xmltv_id="GLOOB">GLOOB</channel>
+  <channel site="clarotvmais.com.br" site_id="94" lang="pt" xmltv_id="GLOOBINHO">GLOOBINHO</channel>
+  <channel site="clarotvmais.com.br" site_id="97" lang="pt" xmltv_id="GNT">GNT</channel>
+  <channel site="clarotvmais.com.br" site_id="260" lang="pt" xmltv_id="HBO">HBO</channel>
+  <channel site="clarotvmais.com.br" site_id="261" lang="pt" xmltv_id="HBO 2">HBO 2</channel>
+  <channel site="clarotvmais.com.br" site_id="262" lang="pt" xmltv_id="HBO +">HBO +</channel>
+  <channel site="clarotvmais.com.br" site_id="263" lang="pt" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
+  <channel site="clarotvmais.com.br" site_id="266" lang="pt" xmltv_id="HBO MUNDI">HBO MUNDI</channel>
+  <channel site="clarotvmais.com.br" site_id="265" lang="pt" xmltv_id="HBO POP">HBO POP</channel>
+  <channel site="clarotvmais.com.br" site_id="264" lang="pt" xmltv_id="HBO SIGNATURE">HBO SIGNATURE</channel>
+  <channel site="clarotvmais.com.br" site_id="267" lang="pt" xmltv_id="HBO XTREME">HBO XTREME</channel>
+  <channel site="clarotvmais.com.br" site_id="115" lang="pt" xmltv_id="HGTV">HGTV</channel>
+  <channel site="clarotvmais.com.br" site_id="84" lang="pt" xmltv_id="HISTORY">HISTORY</channel>
+  <channel site="clarotvmais.com.br" site_id="85" lang="pt" xmltv_id="HISTORY 2">HISTORY 2</channel>
+  <channel site="clarotvmais.com.br" site_id="187" lang="pt" xmltv_id="JOVEM PAN NEWS">JOVEM PAN NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="88" lang="pt" xmltv_id="LIFETIME">LIFETIME</channel>
+  <channel site="clarotvmais.com.br" site_id="183" lang="pt" xmltv_id="LIKE">LIKE</channel>
+  <channel site="clarotvmais.com.br" site_id="46" lang="pt" xmltv_id="Like + | Claro tv+">Like + | Claro tv+ (CANAL DO CLIENTE)</channel>
+  <channel site="clarotvmais.com.br" site_id="319" lang="pt" xmltv_id="LMC+">LMC+</channel>
+  <channel site="clarotvmais.com.br" site_id="467" lang="pt" xmltv_id="MARKKET">MARKKET</channel>
+  <channel site="clarotvmais.com.br" site_id="105" lang="pt" xmltv_id="MEGAPIX">MEGAPIX</channel>
+  <channel site="clarotvmais.com.br" site_id="100" lang="pt" xmltv_id="MODO VIAGEM">MODO VIAGEM</channel>
+  <channel site="clarotvmais.com.br" site_id="98" lang="pt" xmltv_id="MULTISHOW">MULTISHOW</channel>
+  <channel site="clarotvmais.com.br" site_id="55" lang="pt" xmltv_id="MUSIC BOX BRAZIL">MUSIC BOX BRAZIL</channel>
+  <channel site="clarotvmais.com.br" site_id="188" lang="pt" xmltv_id="MEZZO">MEZZO</channel>
+  <channel site="clarotvmais.com.br" site_id="329" lang="pt" xmltv_id="NSPORTS">NSPORTS</channel>
+  <channel site="clarotvmais.com.br" site_id="96" lang="pt" xmltv_id="OFF">OFF</channel>
+  <channel site="clarotvmais.com.br" site_id="89" lang="pt" xmltv_id="PARAMOUNT+ 1">PARAMOUNT+ 1</channel>
+  <channel site="clarotvmais.com.br" site_id="90" lang="pt" xmltv_id="PARAMOUNT+ 2">PARAMOUNT+ 2</channel>
+  <channel site="clarotvmais.com.br" site_id="91" lang="pt" xmltv_id="PARAMOUNT+ 3">PARAMOUNT+ 3</channel>
+  <channel site="clarotvmais.com.br" site_id="92" lang="pt" xmltv_id="PARAMOUNT+ 4">PARAMOUNT+ 4</channel>
+  <channel site="clarotvmais.com.br" site_id="56" lang="pt" xmltv_id="PLAY TV">PLAY TV</channel>
+  <channel site="clarotvmais.com.br" site_id="468" lang="pt" xmltv_id="POLISHOP">POLISHOP</channel>
+  <channel site="clarotvmais.com.br" site_id="54" lang="pt" xmltv_id="CBI">CBI</channel>
+  <channel site="clarotvmais.com.br" site_id="108" lang="pt" xmltv_id="PREMIERE 2">PREMIERE 2</channel>
+  <channel site="clarotvmais.com.br" site_id="109" lang="pt" xmltv_id="PREMIERE 3">PREMIERE 3</channel>
+  <channel site="clarotvmais.com.br" site_id="110" lang="pt" xmltv_id="PREMIERE 4">PREMIERE 4</channel>
+  <channel site="clarotvmais.com.br" site_id="111" lang="pt" xmltv_id="PREMIERE 5">PREMIERE 5</channel>
+  <channel site="clarotvmais.com.br" site_id="112" lang="pt" xmltv_id="PREMIERE 6">PREMIERE 6</channel>
+  <channel site="clarotvmais.com.br" site_id="113" lang="pt" xmltv_id="PREMIERE 7">PREMIERE 7</channel>
+  <channel site="clarotvmais.com.br" site_id="107" lang="pt" xmltv_id="PREMIERE CLUBES">PREMIERE CLUBES</channel>
+  <channel site="clarotvmais.com.br" site_id="57" lang="pt" xmltv_id="PRIME BOX BRAZIL">PRIME BOX BRAZIL</channel>
+  <channel site="clarotvmais.com.br" site_id="58" lang="pt" xmltv_id="RAI INTERNATIONAL">RAI INTERNATIONAL</channel>
+  <channel site="clarotvmais.com.br" site_id="182" lang="pt" xmltv_id="RECORD NEWS">RECORD NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="317" lang="pt" xmltv_id="RECORD">RECORD</channel>
+  <channel site="clarotvmais.com.br" site_id="59" lang="pt" xmltv_id="REDE GOSPEL">REDE GOSPEL</channel>
+  <channel site="clarotvmais.com.br" site_id="185" lang="pt" xmltv_id="REDE TV!">REDE TV!</channel>
+  <channel site="clarotvmais.com.br" site_id="60" lang="pt" xmltv_id="REDE VIDA">REDE VIDA</channel>
+  <channel site="clarotvmais.com.br" site_id="288" lang="pt" xmltv_id="SABOR &amp; ARTE">SABOR &amp; ARTE</channel>
+  <channel site="clarotvmais.com.br" site_id="184" lang="pt" xmltv_id="SBT">SBT</channel>
+  <channel site="clarotvmais.com.br" site_id="469" lang="pt" xmltv_id="SBT NEWS">SBT NEWS</channel>
+  <channel site="clarotvmais.com.br" site_id="348" lang="pt" xmltv_id="SIC INTERNACIONAL">SIC INTERNACIONAL</channel>
+  <channel site="clarotvmais.com.br" site_id="82" lang="pt" xmltv_id="SONY CHANNEL">SONY CHANNEL</channel>
+  <channel site="clarotvmais.com.br" site_id="10" lang="pt" xmltv_id="SPACE">SPACE</channel>
+  <channel site="clarotvmais.com.br" site_id="30" lang="pt" xmltv_id="SPORTV">SPORTV</channel>
+  <channel site="clarotvmais.com.br" site_id="31" lang="pt" xmltv_id="SPORTV 2">SPORTV 2</channel>
+  <channel site="clarotvmais.com.br" site_id="32" lang="pt" xmltv_id="SPORTV 3">SPORTV 3</channel>
+  <channel site="clarotvmais.com.br" site_id="315" lang="pt" xmltv_id="SPORTYNET">SPORTYNET</channel>
+  <channel site="clarotvmais.com.br" site_id="296" lang="pt" xmltv_id="SPORTYNET+ 1">SPORTYNET + 1</channel>
+  <channel site="clarotvmais.com.br" site_id="297" lang="pt" xmltv_id="SPORTYNET+ 2">SPORTYNET + 2</channel>
+  <channel site="clarotvmais.com.br" site_id="298" lang="pt" xmltv_id="SPORTYNET+ 3">SPORTYNET + 3</channel>
+  <channel site="clarotvmais.com.br" site_id="106" lang="pt" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+  <channel site="clarotvmais.com.br" site_id="47" lang="pt" xmltv_id="TCM BR">TCM BR</channel>
+  <channel site="clarotvmais.com.br" site_id="69" lang="pt" xmltv_id="TELECINE ACTION">TELECINE ACTION</channel>
+  <channel site="clarotvmais.com.br" site_id="73" lang="pt" xmltv_id="TELECINE CULT">TELECINE CULT</channel>
+  <channel site="clarotvmais.com.br" site_id="71" lang="pt" xmltv_id="TELECINE FUN">TELECINE FUN</channel>
+  <channel site="clarotvmais.com.br" site_id="72" lang="pt" xmltv_id="TELECINE PIPOCA">TELECINE PIPOCA</channel>
+  <channel site="clarotvmais.com.br" site_id="68" lang="pt" xmltv_id="TELECINE PREMIUM">TELECINE PREMIUM</channel>
+  <channel site="clarotvmais.com.br" site_id="70" lang="pt" xmltv_id="TELECINE TOUCH">TELECINE TOUCH</channel>
+  <channel site="clarotvmais.com.br" site_id="49" lang="pt" xmltv_id="DUMDUM">DUMDUM</channel>
+  <channel site="clarotvmais.com.br" site_id="339" lang="pt" xmltv_id="TIMES | EXCLUSIVO CNBC">TIMES | EXCLUSIVO CNBC</channel>
+  <channel site="clarotvmais.com.br" site_id="12" lang="pt" xmltv_id="TLC">TLC</channel>
+  <channel site="clarotvmais.com.br" site_id="9" lang="pt" xmltv_id="TNT">TNT</channel>
+  <channel site="clarotvmais.com.br" site_id="299" lang="pt" xmltv_id="TNT NOVELAS">TNT NOVELAS</channel>
+  <channel site="clarotvmais.com.br" site_id="20" lang="pt" xmltv_id="TNT SERIES">TNT SERIES</channel>
+  <channel site="clarotvmais.com.br" site_id="81" lang="pt" xmltv_id="TRACE BRASIL">TRACE BRASIL</channel>
+  <channel site="clarotvmais.com.br" site_id="353" lang="pt" xmltv_id="Travel &amp; Food and Drinks">Travel &amp; Food and Drinks</channel>
+  <channel site="clarotvmais.com.br" site_id="75" lang="pt" xmltv_id="TRAVEL BOX BRAZIL">TRAVEL BOX</channel>
+  <channel site="clarotvmais.com.br" site_id="335" lang="pt" xmltv_id="TRIP BRASIL CHANNEL">TRIP BRASIL CHANNEL</channel>
+  <channel site="clarotvmais.com.br" site_id="63" lang="pt" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+  <channel site="clarotvmais.com.br" site_id="320" lang="pt" xmltv_id="TV APARECIDA">TV APARECIDA</channel>
+  <channel site="clarotvmais.com.br" site_id="61" lang="pt" xmltv_id="TV BRASIL">TV BRASIL</channel>
+  <channel site="clarotvmais.com.br" site_id="470" lang="pt" xmltv_id="TV CÂMARA">TV CÂMARA</channel>
+  <channel site="clarotvmais.com.br" site_id="53" lang="pt" xmltv_id="TV GAZETA">TV GAZETA</channel>
+  <channel site="clarotvmais.com.br" site_id="472" lang="pt" xmltv_id="TV JUSTIÇA">TV JUSTIÇA</channel>
+  <channel site="clarotvmais.com.br" site_id="476" lang="pt" xmltv_id="TV NOVO TEMPO">TV NOVO TEMPO</channel>
+  <channel site="clarotvmais.com.br" site_id="373" lang="pt" xmltv_id="TV PAI ETERNO">TV PAI ETERNO</channel>
+  <channel site="clarotvmais.com.br" site_id="62" lang="pt" xmltv_id="TV RA TIM BUM">TV RA TIM BUM</channel>
+  <channel site="clarotvmais.com.br" site_id="474" lang="pt" xmltv_id="TV SENADO">TV SENADO</channel>
+  <channel site="clarotvmais.com.br" site_id="176" lang="pt" xmltv_id="TVE INTERNATIONAL">TVE INTERNATIONAL</channel>
+  <channel site="clarotvmais.com.br" site_id="323" lang="pt" xmltv_id="UNIVERSAL PREMIERE">UNIVERSAL PREMIERE</channel>
+  <channel site="clarotvmais.com.br" site_id="324" lang="pt" xmltv_id="UNIVERSAL REALITY">UNIVERSAL REALITY</channel>
+  <channel site="clarotvmais.com.br" site_id="102" lang="pt" xmltv_id="UNIVERSAL TV">UNIVERSAL TV</channel>
+  <channel site="clarotvmais.com.br" site_id="103" lang="pt" xmltv_id="USA">USA</channel>
+  <channel site="clarotvmais.com.br" site_id="83" lang="pt" xmltv_id="WARNER CHANNEL">WARNER CHANNEL</channel>
+  <channel site="clarotvmais.com.br" site_id="48" lang="pt" xmltv_id="WOOHOO">WOOHOO</channel>
+  <channel site="clarotvmais.com.br" site_id="439" lang="pt" xmltv_id="XSPORTS">XSPORTS</channel>
+</channels>

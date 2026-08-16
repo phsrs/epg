@@ -1,0 +1,57 @@
+name: Atualizador Automático de EPG
+
+on:
+  schedule:
+    # Roda todos os dias às 03:00 da madrugada (Horário de Brasília / 06:00 UTC)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite rodar manualmente clicando no botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Copia o seu repositório pessoal (onde está sua pasta 'sites')
+    - name: Checkout seu repositório
+      uses: actions/checkout@v4
+
+    # 2. Clona de forma oficial o motor do iptv-org/epg para dentro da pasta epg-engine
+    - name: Clonar motor do iptv-org/epg
+      uses: actions/checkout@v4
+      with:
+        repository: 'iptv-org/epg'
+        ref: 'master'
+        path: 'epg-engine'
+
+    # 3. Substitui as configurações originais pelas suas modificadas (Seus canais escolhidos)
+    - name: Injetar sites modificados no motor
+      run: |
+        cp -r sites/* epg-engine/sites/
+
+    # 4. Instala o Node.js na máquina virtual do GitHub
+    - name: Configurar Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+        cache: 'npm'
+        cache-dependency-path: epg-engine/package-lock.json
+
+    # 5. Instala as dependências de execução do motor
+    - name: Instalar dependências do motor
+      run: |
+        cd epg-engine
+        npm install
+
+    # 6. Baixa a programação da Claro e Vivo (4 dias de guia com 6 conexões)
+    - name: Baixar e unificar a programação (Claro + Vivo)
+      run: |
+        cd epg-engine
+        npm run grab --- --sites=clarotvmais.com.br,vivoplay.com.br --maxConnections=6 --delay=2500 --days=4 --output=../guia.xml
+
+    # 7. Salva o arquivo guia.xml completo de volta no seu repositório
+    - name: Atualizar repositório com o novo guia.xml
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add guia.xml
+        git diff-index --quiet HEAD -- || (git commit -m "EPG atualizado automaticamente" && git push)
