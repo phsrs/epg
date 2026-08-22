@@ -46,7 +46,7 @@ jobs:
     - name: Baixar e unificar a programação (Claro + Vivo)
       run: |
         cd epg-engine
-        npm run grab --- --sites=clarotvmais.com.br,vivoplay.com.br --maxConnections=6 --delay=2500 --days=4 --output=../guia.xml
+        npm run grab --- --sites=clarotvmais.com.br,vivoplay.com.br --maxConnections=6 --delay=2500 --days=5 --output=../guia.xml
 
     # 7. Salva o arquivo guia.xml completo de volta no seu repositório
     - name: Atualizar repositório com o novo guia.xml
