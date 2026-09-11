@@ -32,7 +32,7 @@ jobs:
     - name: Configurar Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: 20 # Atualizado de 18 para 20 para garantir compatibilidade com o motor do iptv-org
+        node-version: 18
         cache: 'npm'
         cache-dependency-path: epg-engine/package-lock.json
 
