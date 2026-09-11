@@ -32,7 +32,7 @@ jobs:
     - name: Configurar Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: 18
+        node-version: 20 # Atualizado de 18 para 20 para garantir compatibilidade com o motor do iptv-org
         cache: 'npm'
         cache-dependency-path: epg-engine/package-lock.json
 
@@ -60,4 +60,3 @@ jobs:
         git config --global user.email "actions@github.com"
         git add guia.xml.gz
         git diff-index --quiet HEAD -- || (git commit -m "EPG atualizado automaticamente" && git push)
-  
